@@ -1,0 +1,5 @@
+mleko;1
+bulka;30
+jablko;12
+ziemniaki;297
+Caprio;6
